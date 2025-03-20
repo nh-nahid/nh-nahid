@@ -18,9 +18,9 @@ Building a **Bangla grammar checker** using **JavaScript**, aiming to improve te
 Creating a **blood bank management system** to connect donors with recipients, making blood donation more accessible and efficient.
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: <a href="www.linkedin.com/in/md-nahid-hossain-8b6726303">My LinkedIn Profile</a>(#)
+- 💼 LinkedIn: <a href="www.linkedin.com/in/md-nahid-hossain-8b6726303">My LinkedIn Profile</a>
 - 🐦 Twitter: [Your Twitter Handle](#)
-- 📧 Email: [Your Email](#)
+- 📧 Email: nahid4510@gmail.com
 
 Thanks for stopping by! 😊 Feel free to explore my repositories and contribute! 🚀
 
