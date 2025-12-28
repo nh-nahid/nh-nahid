@@ -7,7 +7,7 @@ I work mainly with <b>JavaScript, React, and Next.js</b>, and I love turning ide
 I believe in writing readable code, learning continuously, and improving through real-world projects. Whether it’s refining UI details, structuring data efficiently, or solving tricky bugs, I enjoy the process as much as the result.
 
 # 💫 About Me:
-💻 I love building innovative web applications.<br>🎯 Focused on solving real-world problems with technology.<br>🌱 Always learning and experimenting with new technologies.
+✨ Simple & Clean<br><br>💻 I love building modern and innovative web applications.<br>🎯 Focused on solving real-world problems with technology.<br>🌱 Always learning, experimenting, and improving my skills.<br><br>🚀 Developer-Focused<br><br>💻 Passionate about building fast, scalable web applications.<br>🎯 Solving real-world problems through clean code and smart design.<br>🌱 Constantly learning new tools, frameworks, and best practices.
 
 
 ## 🌐 Socials:
@@ -26,3 +26,4 @@ I believe in writing readable code, learning continuously, and improving through
 ---
 [![](https://visitcount.itsvg.in/api?id=nh-nahid&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
