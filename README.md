@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Nahid+Hossain"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&center=true&vCenter=true&width=700&color=FFFFFF&lines=Hi+there!+%F0%9F%91%8B+I'm+Nahid+Hossain"
     alt="Hi there, I'm Nahid Hossain"
   />
 </h1>
