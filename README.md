@@ -1,14 +1,17 @@
-<h1 align="center">Hi there! 👋, I'm Nahid Hossain</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Nahid+Hossain" />
+</h1>
 
 <p align="center">
   <strong>Frontend Developer</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Building+modern+web+experiences;Crafting+clean+and+scalable+UIs;Focused+on+performance+and+UX" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Designing+scalable+user+interfaces;Focused+on+performance+and+UX" />
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
+
 
 
 Welcome to my GitHub profile! I'm a passionate <b>Frontend Developer</b> working on various projects, including real-time applications, language processing tools, and community-driven platforms.
