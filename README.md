@@ -1,5 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Nahid+Hossain" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1200&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Nahid+Hossain"
+    alt="Hi there, I'm Nahid Hossain"
+  />
 </h1>
 
 <p align="center">
@@ -7,10 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Designing+scalable+user+interfaces;Focused+on+performance+and+UX" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;Designing+scalable+user+interfaces;Focused+on+performance+and+UX"
+    alt="Roles"
+  />
 </p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 
