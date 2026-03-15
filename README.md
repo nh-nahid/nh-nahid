@@ -6,48 +6,84 @@
 </h1>
 
 <p align="center">
-  <strong>Frontend Developer</strong>
+  <strong>Software QA Engineer • Frontend Expertise</strong>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;Designing+scalable+user+interfaces;Focused+on+performance+and+UX"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Ensuring+software+quality+through+testing;Manual+and+Automation+Testing;Frontend+Architecture+and+UI+Quality;Focused+on+performance+and+UX"
     alt="Roles"
   />
 </p>
 
+---
 
+## 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm a passionate <b>Frontend Developer</b> working on various projects, including real-time applications, language processing tools, and community-driven platforms.
+Welcome to my GitHub profile! I'm a **Software QA Engineer with strong Frontend Expertise**.
 
-I primarily work with <b>JavaScript, React, and Next.js</b>, and I enjoy transforming ideas into fast, responsive, and visually polished products. I’m especially interested in <b>modern UI design, performance optimization, and clean architecture</b>.
+I specialize in ensuring **software quality, reliability, and performance** through structured testing strategies and close collaboration with engineering teams. My frontend background helps me understand application architecture deeply and identify issues early in the development lifecycle.
 
-I believe in writing readable code, learning continuously, and improving through real-world projects. Whether it’s refining UI details, structuring data efficiently, or solving tricky bugs, I enjoy the process as much as the result.
+I primarily work with **JavaScript, React, and Next.js**, focusing on testing modern web applications and delivering stable, high-quality user experiences.
 
-# 💫 About Me:
-✨ Simple & Clean<br><br>💻 I love building modern and innovative web applications.<br>🎯 Focused on solving real-world problems with technology.<br>🌱 Always learning, experimenting, and improving my skills.<br><br>🚀 Developer-Focused<br><br>💻 Passionate about building fast, scalable web applications.<br>🎯 Solving real-world problems through clean code and smart design.<br>🌱 Constantly learning new tools, frameworks, and best practices.
+I’m passionate about:
 
+🔍 Identifying bugs before they reach users  
+🧪 Improving product reliability through automated testing  
+⚡ Optimizing UI performance and frontend quality  
+🎯 Delivering smooth and user-friendly digital experiences  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nh.nahid.me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nh.nahid.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/me-nahid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nahid4510@gmail.com) 
+---
+
+# 💫 Engineering Focus
+
+### 🧪 Quality Engineering
+
+🔎 Ensuring application reliability through **manual and automated testing**  
+🧪 Experienced with testing tools such as **Vitest, Jest, and Mocha**  
+📊 Writing structured **test cases, bug reports, and validation flows**  
+🤝 Collaborating with engineering teams to deliver stable releases  
+
+### ⚛️ Frontend Expertise
+
+⚛️ Strong experience with **React and Next.js**  
+⚡ Focused on **UI reliability, performance, and maintainable architecture**  
+🎯 Improving product quality through **testing and engineering insight**  
+🌱 Continuously learning modern tools and best practices  
+
+---
+
+## 🌐 Socials
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nh.nahid.me)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nh.nahid.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/me-nahid)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nahid4510@gmail.com)
+
+---
 
 # 💻 Tech Stack
 
-| 🧠 Languages | ⚛️ Frameworks & Libraries | 🛠 Tools | 🗄 Databases | 🔧 Others |
-|------------|---------------------------|---------|-------------|----------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593d88?style=flat&logo=redux&logoColor=white) ![React_Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white) ![React_Hook_Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/PNPM-4a4a4a?style=flat&logo=pnpm&logoColor=f69220) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7) ![Context_API](https://img.shields.io/badge/Context_API-000000?style=flat&logo=react) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
+| 🧠 Languages | ⚛️ Frameworks & Libraries | 🧪 Testing | 🛠 Tools | 🗄 Databases |
+|-------------|--------------------------|------------|---------|-------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593d88?style=flat&logo=redux&logoColor=white) | ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white) |
 
+---
 
+# 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nh-nahid&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nh-nahid&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nh-nahid&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=nh-nahid&theme=blue_navy&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nh-nahid&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+---
+
+### 🔝 Top Contributed Repository
+
 ![](https://github-contributor-stats.vercel.app/api?username=nh-nahid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nh-nahid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=nh-nahid&icon=0&color=0)](https://visitcount.itsvg.in)
