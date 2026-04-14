@@ -74,8 +74,8 @@ I’m passionate about:
 
 | Certificate | Description |
 |------------|-------------|
-| <a href="certificates/LWS-Certificate.jpg" target="_blank"><img src="certificates/LWS-Certificate.jpg" alt="LWS Certificate" width="400"/></a><br/>**LWS Certificate of Achievement**<br/><br/> | **Reactive Accelerator Course Completion**<br/>Successfully completed comprehensive web development training covering modern frontend technologies, best practices, and industry standards. |
-| <a href="certificates/LWS-Recommendation-Letter.jpg" target="_blank"><img src="certificates/LWS-Recommendation-Letter.jpg" alt="LWS Recommendation Letter" width="400"/></a><br/>**LWS Letter of Recommendation**<br/><br/> | **Professional Recommendation**<br/>Recognized for dedication, technical proficiency, and collaborative spirit throughout the training program. Endorsed for strong problem-solving abilities and commitment to excellence. |
+| <div align="center"><a href="certificates/LWS-Certificate.jpg" target="_blank"><img src="certificates/LWS-Certificate.jpg" alt="LWS Certificate" width="400"/></a><br/>**LWS Certificate of Achievement**</div><br/> | **Reactive Accelerator Course Completion**<br/>Successfully completed comprehensive web development training covering modern frontend technologies, best practices, and industry standards. |
+| <div align="center"><a href="certificates/LWS-Recommendation-Letter.jpg" target="_blank"><img src="certificates/LWS-Recommendation-Letter.jpg" alt="LWS Recommendation Letter" width="400"/></a><br/>**LWS Letter of Recommendation**</div><br/> | **Professional Recommendation**<br/>Recognized for dedication, technical proficiency, and collaborative spirit throughout the training program. Endorsed for strong problem-solving abilities and commitment to excellence. |
 
 ---
 
