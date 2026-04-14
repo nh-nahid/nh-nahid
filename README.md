@@ -81,17 +81,17 @@ I’m passionate about:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nh-nahid&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=nh-nahid&show_icons=true&hide_border=true&title_color=FD428D&icon_color=FD428D&text_color=ffffff&text_bold=true&bg_color=0d1117&border_color=FD428D)
 
-![](https://nirzak-streak-stats.vercel.app/?user=nh-nahid&theme=blue_navy&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nh-nahid&theme=dark&hide_border=false&dates=90D7D3&ring=FD428D&fire=FD428D&currStreakLabel=DCBF3F&sideNums=FD428D&sideLabels=FD428D&currStreakNum=DCBF3F&background=0d1117)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nh-nahid&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nh-nahid&layout=compact&hide_border=true&title_color=FD428D&text_color=ffffff&bg_color=0d1117)
 
 ---
 
 ### 🔝 Top Contributed Repository
 
-![](https://github-contributor-stats.vercel.app/api?username=nh-nahid&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=nh-nahid&repo=nh-nahid&show_owner=true&title_color=FD428D&icon_color=FD428D&text_color=ffffff&bg_color=0d1117&border_color=FD428D)
 
 ---
 
