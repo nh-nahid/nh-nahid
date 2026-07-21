@@ -70,6 +70,98 @@ I’m passionate about:
 
 ---
 
+---
+
+# 🏆 Certifications
+
+<table>
+
+<tr>
+<td width="30%" align="center">
+
+### Reactive Accelerator
+
+<a href="./certificates/LWS-Certificate.jpg">
+<img src="./certificates/LWS-Certificate.jpg" width="250" alt="Reactive Accelerator Certificate"/>
+</a>
+
+</td>
+
+<td width="70%" valign="top">
+
+### Learn with Sumit
+
+**Course Completion**
+
+Completed the **Reactive Accelerator** full-stack development program with hands-on training in:
+
+React • Next.js • TypeScript • Express.js • MongoDB • REST APIs • GraphQL • Prisma • Docker • AWS • CI/CD • Modern JavaScript
+
+<a href="./certificates/LWS-Certificate.jpg">
+  <img src="https://img.shields.io/badge/View-Certificate-green?style=flat&logo=googledocs&logoColor=white" alt="View Certificate"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="center">
+
+### Recommendation Letter
+
+<a href="./certificates/LWS-Recommendation-Letter.jpg">
+<img src="./certificates/LWS-Recommendation-Letter.jpg" width="250" alt="Recommendation Letter"/>
+</a>
+
+</td>
+
+<td width="70%" valign="top">
+
+### Learn with Sumit
+
+Received a **Recommendation Letter** recognizing:
+
+- Technical skills
+- Consistent performance
+- Professionalism
+- Contributions throughout the Reactive Accelerator program
+
+<a href="./certificates/LWS-Recommendation-Letter.jpg">
+  <img src="https://img.shields.io/badge/View-Certificate-green?style=flat&logo=googledocs&logoColor=white" alt="View Certificate"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="center">
+
+### Basics of Python
+
+<a href="./certificates/uniathena-python-certificate.png">
+<img src="./certificates/uniathena-python-certificate.png" width="250" alt="Basics of Python Certificate"/>
+</a>
+
+</td>
+
+<td width="70%" valign="top">
+
+### UniAthena
+
+Successfully completed the **Basics of Python** course, covering:
+
+Python Fundamentals • Variables • Loops • Functions • OOP Basics • Problem Solving
+
+<a href="./certificates/uniathena-python-certificate.png">
+  <img src="https://img.shields.io/badge/View-Certificate-green?style=flat&logo=googledocs&logoColor=white" alt="View Certificate"/>
+</a>
+
+</td>
+</tr>
+
+</table>
+
+---
 ## 📊 GitHub Stats
 
 <!-- DARK MODE -->
@@ -90,15 +182,13 @@ I’m passionate about:
 
 ---
 
-### 🔝 Top Contributed Repository
+## 🚀 Featured Projects
 
-<!-- DARK MODE -->
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nh-nahid&repo=nh-nahid&show_owner=true&title_color=F98B00&icon_color=F98B00&text_color=ffffff&bg_color=0d1117#gh-dark-mode-only)](https://github.com/nh-nahid#gh-dark-mode-only)
-
-<!-- LIGHT MODE -->
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nh-nahid&repo=nh-nahid&show_owner=true&title_color=F98B00&icon_color=F98B00&text_color=000000#gh-light-mode-only)](https://github.com/nh-nahid#gh-light-mode-only)
-
----
+| Project | Description | Tech |
+|---------|-------------|------|
+| **🌐 Personal Portfolio**<br><sub><a href="https://nh-nahid.vercel.app/">🌍 Live Demo</a> • <a href="https://github.com/nh-nahid/nh-nahid-portfolio.git">📂 Repository</a></sub> | A modern frontend-focused full-stack portfolio built with **Next.js 16**, **Express.js**, and **MongoDB**. Features dynamic content management through REST APIs, reusable architecture, SSR, Redux Toolkit, and responsive UI. | `Next.js` `React` `TypeScript` `Tailwind CSS` `Shadcn` `Express.js` `MongoDB` |
+| **📚 eBooi**<br><sub><a href="https://e-booi.com/">🌍 Live Demo</a> • <a href="https://github.com/nh-nahid/e-booi-an-ebook-platform">📂 Repository</a></sub> | A full-stack bookstore platform supporting digital & physical books, secure authentication, SSLCommerz payments, PDF invoices, email notifications, and a comprehensive admin dashboard. | `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `TanStack Query` `JWT` |
+| **🚗 Tirematic**<br><sub><a href="https://stage.tirematic.com/">🌍 Live Demo</a> • <a href="#">📂 Repository</a></sub> | A multi-vendor tire marketplace with vendor, affiliate, and admin modules. Integrated with NetSuite ERP, AWS S3, and Google Drive to support inventory, media management, and reliable order processing. | `React` `Next.js` `Node.js` `MongoDB` `AWS S3` |
 
 <!-- VISITOR COUNTER (FIXED STYLE) -->
 <p align="center">
