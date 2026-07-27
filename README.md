@@ -70,8 +70,6 @@ I’m passionate about:
 
 ---
 
----
-
 # 🏆 Certifications
 
 <table>
