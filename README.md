@@ -162,6 +162,17 @@ Python Fundamentals • Variables • Loops • Functions • OOP Basics • Pro
 </table>
 
 ---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **📚 eBooi**<br><sub><a href="https://e-booi.com/">🌍 Live Demo</a> • <a href="https://github.com/nh-nahid/e-booi-an-ebook-platform">📂 Repository</a></sub> | A full-stack bookstore platform supporting digital & physical books, secure authentication, SSLCommerz payments, PDF invoices, email notifications, and a comprehensive admin dashboard. | `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `TanStack Query` `JWT` |
+| **🌐 Portfolio**<br><sub><a href="https://nh-nahid.vercel.app/">🌍 Live Demo</a> • <a href="https://github.com/nh-nahid/nh-nahid-portfolio.git">📂 Repository</a></sub> | A modern frontend-focused full-stack portfolio built with **Next.js 16**, **Express.js**, and **MongoDB**. Features dynamic content management through REST APIs, reusable architecture, SSR, and responsive UI. | `Next.js` `React` `TypeScript` `Tailwind CSS` `Shadcn` `Express.js` `MongoDB` |
+| **🚗 Tirematic**<br><sub><a href="https://stage.tirematic.com/">🌍 Live Demo</a> • <a href="#">📂 Repository</a></sub> | A multi-vendor tire marketplace with vendor, affiliate, and admin modules. Integrated with NetSuite ERP, AWS S3, and Google Drive to support inventory, media management, and reliable order processing. | `React` `Next.js` `Node.js` `MongoDB` `AWS S3` |
+
+
+---
 ## 📊 GitHub Stats
 
 <!-- DARK MODE -->
@@ -180,15 +191,6 @@ Python Fundamentals • Variables • Loops • Functions • OOP Basics • Pro
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nh-nahid&theme=default#gh-light-mode-only)](https://github.com/nh-nahid#gh-light-mode-only)
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **📚 eBooi**<br><sub><a href="https://e-booi.com/">🌍 Live Demo</a> • <a href="https://github.com/nh-nahid/e-booi-an-ebook-platform">📂 Repository</a></sub> | A full-stack bookstore platform supporting digital & physical books, secure authentication, SSLCommerz payments, PDF invoices, email notifications, and a comprehensive admin dashboard. | `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `TanStack Query` `JWT` |
-| **🌐 Portfolio**<br><sub><a href="https://nh-nahid.vercel.app/">🌍 Live Demo</a> • <a href="https://github.com/nh-nahid/nh-nahid-portfolio.git">📂 Repository</a></sub> | A modern frontend-focused full-stack portfolio built with **Next.js 16**, **Express.js**, and **MongoDB**. Features dynamic content management through REST APIs, reusable architecture, SSR, and responsive UI. | `Next.js` `React` `TypeScript` `Tailwind CSS` `Shadcn` `Express.js` `MongoDB` |
-| **🚗 Tirematic**<br><sub><a href="https://stage.tirematic.com/">🌍 Live Demo</a> • <a href="#">📂 Repository</a></sub> | A multi-vendor tire marketplace with vendor, affiliate, and admin modules. Integrated with NetSuite ERP, AWS S3, and Google Drive to support inventory, media management, and reliable order processing. | `React` `Next.js` `Node.js` `MongoDB` `AWS S3` |
 
 <!-- VISITOR COUNTER (FIXED STYLE) -->
 <p align="center">
