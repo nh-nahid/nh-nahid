@@ -159,7 +159,7 @@ Python Fundamentals • Variables • Loops • Functions • OOP Basics • Pro
 
 </table>
 
-
+---
 ## 📊 GitHub Stats
 
 <!-- DARK MODE -->
